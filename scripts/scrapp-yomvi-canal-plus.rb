@@ -86,7 +86,7 @@ File.open('../esta-noche-yomvi-canal-plus.html', 'w') do |f2|
            end
   f2.puts "</div>"
   
-  f2.puts "<div class='footer clearfix'><hr> <a href='#{url}'>#{url}</a></div>"
+  f2.puts "<div class='footer clearfix'><hr> Fuentes: <a href='#{url2}'>#{url2}</a> & <a href='#{url}'>#{url}</a></div>"
   
   f2.puts "
         </div>
